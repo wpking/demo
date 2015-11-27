@@ -1,3 +1,3 @@
 <?php
 
-echo "adfasdfasdfsadf dfs dfsd";
+echo "random string";
